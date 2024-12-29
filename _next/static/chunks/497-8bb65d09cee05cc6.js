@@ -791,11 +791,7 @@
     536: function (e, t) {
       function n(e) {
         let { config: t, src: n, width: r, quality: i } = e;
-        return (
-          t.path +
-          "?url=" +
-          encodeURIComponent(n)        
-        );
+        return n
       }
       Object.defineProperty(t, "__esModule", { value: !0 }),
         Object.defineProperty(t, "default", {
