@@ -106,7 +106,7 @@
                   "flex grow flex-col items-center gap-y-5 overflow-y-auto bg-light-secondary dark:bg-dark-secondary px-2 py-8",
                 children: [
                   (0, n.jsx)(d.default, {
-                    href: "https://lendernetwork.vercel.app",
+                    href: "https://www.lendernetwork.cc",
                     children: (0, n.jsx)(h.default, {
                       src: "/logo.png",
                       alt: "logo",
