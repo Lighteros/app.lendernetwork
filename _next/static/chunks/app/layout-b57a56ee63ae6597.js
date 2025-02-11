@@ -93,8 +93,8 @@
             },
           ],
           y = [
-            { label: "\uD835\uDD4F", icon: b.LCd, href: "https://x.com/LNDNetwork_ETH" },
-            { label: "Telegram", icon: f.AGi, href: "https://t.me/LenderNetwork_ETH" },
+            { label: "\uD835\uDD4F", icon: b.LCd, href: "https://x.com/LNDNetworkETH" },
+            { label: "Telegram", icon: f.AGi, href: "https://t.me/LNDNetworkETH" },
           ];
         return (0, n.jsxs)("div", {
           children: [
